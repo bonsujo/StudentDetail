@@ -9,6 +9,7 @@ public class ThursdayExample {
 
     public static void main(String[] args) {
         System.out.println("Learning Github");
+        System.out.println("learning pull operations");
     }
     
 }
